@@ -149,7 +149,7 @@
           },
           "title": "Tara Rotz Portfolio",
           "text": "Some of my creative work shown are from clients I've worked with in the last year<br>For a complete portfolio or inquiry of work to be created, contact me below.",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Stuff</a>",
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Portfolio</a> ",
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "17px"
@@ -180,6 +180,12 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "14px"
             }
           },
           "_tags": [

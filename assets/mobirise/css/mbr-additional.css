@@ -487,3 +487,9 @@ h6,
 #header3-2 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2 H3 {
+  font-size: 36px;
+}
+#header3-2 SMALL {
+  font-size: 14px;
+}
