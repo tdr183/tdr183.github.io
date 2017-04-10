@@ -155,7 +155,7 @@
             "showButtons": true
           },
           "title": "Tara Rotz Portfolio",
-          "text": "Client projects I've worked in the last year shown in gallery below.&nbsp;<br>For a complete project list or inquiry of work to be created, please contact me below.",
+          "text": "Client projects I've worked in the last year shown in gallery below.&nbsp;<br><br>For a complete project list, please contact me below.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"index.html#form2-4\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> <a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>",
           "_styles": {
             ".mbr-iconfont": {},
@@ -293,7 +293,7 @@
             "overlayColor": "#fffffd",
             "showHeading": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "formHeader": false,
             "showCheckbox": false
           },
