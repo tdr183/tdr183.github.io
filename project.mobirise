@@ -41,13 +41,13 @@
               "display": "none !important"
             },
             ".navbar-toggler": {
-              "color": "#74a3c7"
+              "color": "#fffffd"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#74a3c7"
+              "background-color": "#fffffd"
             },
             ".link, .dropdown-item": {
-              "color": "#74a3c7",
+              "color": "#fffffd",
               "font-family": "'Libre Franklin', serif"
             },
             ".link": {
@@ -57,35 +57,35 @@
               "font-size": "0.880rem"
             },
             ".link:hover, .link:focus": {
-              "color": "#000000"
+              "color": "#bb412e"
             },
             ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#000000"
+              "background": "#bb412e"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#74a3c7"
+              "color": "#fffffd"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#74a3c7",
+              "color": "#fffffd",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#000000"
+              "color": "#bb412e"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#bb412e!important"
             }
           },
           "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
@@ -95,7 +95,7 @@
           "_name": "menu2",
           "_anchor": "menu2-0",
           "_params": {
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "fontSize": 0.8125,
             "imageSize": "3.5",
             "fontName": {
@@ -103,9 +103,9 @@
               "css": "'Libre Franklin', serif",
               "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             },
-            "fontColor": "#74a3c7",
-            "fontHoverColor": "#000000",
-            "transparent": true,
+            "fontColor": "#fffffd",
+            "fontHoverColor": "#bb412e",
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": false,
