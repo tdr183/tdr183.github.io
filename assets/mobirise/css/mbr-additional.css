@@ -591,6 +591,10 @@ a:hover {
   font-size: 16px;
   color: #fffffd;
 }
+#content3-6 .mbr-section-title,
+#content3-6 .mbr-section-subtitle {
+  text-align: center;
+}
 #form2-4 .heading {
   background: #b43724;
 }

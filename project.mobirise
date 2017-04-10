@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -170,6 +170,26 @@
           "title": "Tara Rotz Portfolio",
           "text": "Client projects I've worked in the last year shown in gallery below.&nbsp;<br><br>For a complete project list, please contact me below.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"index.html#form2-4\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> <a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"index.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Portfolio",
+          "meta": "Projects vary from printed ads to custom logos"
         },
         {
           "_tags": [
