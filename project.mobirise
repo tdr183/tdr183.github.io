@@ -166,7 +166,8 @@
               "font-size": "46px"
             },
             ".heading-text": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#fffffd"
             }
           }
         },
