@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -289,6 +289,26 @@
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Contact Me",
+          "meta": "If you have a particular project you'd like to discuss, please use the contact form below."
+        },
+        {
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "_tags": [
             "Theme"
@@ -302,7 +322,7 @@
           "_anchor": "form2-4",
           "_params": {
             "formBg": "#b43724",
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
@@ -317,7 +337,7 @@
             "overlayOpacity": 0.95,
             "overlayColor": "#fffffd",
             "showHeading": true,
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "formHeader": false,
             "showCheckbox": false
