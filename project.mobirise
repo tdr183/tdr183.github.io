@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-04-09_2159",
+    "name": "TDRportfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -22,7 +22,10 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 8,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -140,7 +143,9 @@
               "vertical-align": "middle"
             },
             ".heading-title": {
-              "font-size": "46px"
+              "font-size": "72px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".heading-text": {
               "font-size": "16px",
@@ -167,7 +172,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Tara Rotz Portfolio",
+          "title": "TDR DesignS",
           "text": "Client projects I've worked in the last year shown in gallery below.&nbsp;<br><br>For a complete project list, please contact me below.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"index.html#form2-4\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> <a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"index.html#gallery1-5\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>"
         },

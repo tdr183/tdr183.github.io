@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+
 
 
 
@@ -585,7 +587,8 @@ a:hover {
   vertical-align: middle;
 }
 #header4-2 .heading-title {
-  font-size: 46px;
+  font-size: 72px;
+  font-family: 'Oswald', sans-serif;
 }
 #header4-2 .heading-text {
   font-size: 16px;
